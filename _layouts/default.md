@@ -9,7 +9,7 @@
 <body>
 
 <header>
-    <h1>Your Name</h1>
+    <h1>Default Name</h1>
     <p>Data Scientist | Machine Learning Enthusiast | Portfolio</p>
 </header>
 
