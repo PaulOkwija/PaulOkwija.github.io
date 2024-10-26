@@ -1,7 +1,7 @@
 # Set base configuration
 # markdown: kramdown
-theme: minima    # Optional: sets a basic theme for easy CSS customization
-
+# theme: minima    # Optional: sets a basic theme for easy CSS customization
+theme: jekyll-theme-minimal
 # Set custom collection for sections if you want to organize content by sections
 collections:
   sections:
