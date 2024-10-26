@@ -1,0 +1,11 @@
+# Set base configuration
+# markdown: kramdown
+theme: minima    # Optional: sets a basic theme for easy CSS customization
+
+# Set custom collection for sections if you want to organize content by sections
+collections:
+  sections:
+    output: true
+
+# Configure permalink structure to keep clean URLs
+permalink: pretty
