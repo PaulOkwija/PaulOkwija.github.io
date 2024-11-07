@@ -29,15 +29,7 @@ markdown: kramdown
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-<<<<<<< HEAD
-# url                      : "https://paulokwija.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
-# repository               : https://github.com/PaulOkwija/PaulOkwija.github.io
-# permalink: /
-# permalink: /:categories/:title/
-=======
 permalink: /about/
->>>>>>> parent of 29449bb (Debugging home page)
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
