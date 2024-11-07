@@ -26,6 +26,7 @@ search: false
 
 # Build settings
 markdown: kramdown
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme: mmistakes/minimal-mistakes
 # Outputting
 url                      : "https://paulokwija.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
