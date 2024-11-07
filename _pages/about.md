@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello, Welcome to my corner! I am Paul, a self-taught programmer passionate about harnessing the power of machine learning to drive social change. With a focus on healthcare, I aim to leverage the power of AI, especially in computer vision and natural language processing, to create solutions that make healthcare more accessible for everyone.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I envision becoming a professional who creates consumer-ready machine learning applications. I am actively learning and expanding my expertise and improving my skills through coding challenges like CloudFlight Coding Contest and Zindi.
+
+When I'm not coding or exploring the latest advancements in AI, I'm immersed in Games, Music, and Japanese Anime. Music keeps me grounded and in tune with the world.
