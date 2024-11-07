@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Paul Okwija Mugume"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Set your heart ablaze, surpass your limits."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
