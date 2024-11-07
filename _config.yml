@@ -29,9 +29,9 @@ markdown: kramdown
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-url                      : "https://paulokwija.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : "https://paulokwija.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/PaulOkwija/PaulOkwija.github.io
+# repository               : https://github.com/PaulOkwija/PaulOkwija.github.io
 # permalink: /
 # permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
